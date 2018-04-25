@@ -1,0 +1,56 @@
+- name: Darwin Manuel Urbina
+  age: 29
+  date_of_death: 19 de Abril del 2018
+  department: '-'
+  occupation: Trabajador de un supermercado
+  picture: http://via.placeholder.com/640x480
+  slug: darwin-manuel-urbina
+- name: Hilton Rafael Manzanarez
+  age: 33
+  date_of_death: 19 de Abril del 2018
+  department: '-'
+  occupation: Sub-Oficial de la DOE
+  picture: http://via.placeholder.com/640x480
+  slug: hilton-rafael-manzanarez
+- name: Richard Pavón Bermúdez
+  age: 17
+  date_of_death: 19 de Abril del 2018
+  department: Tipitapa
+  occupation: Estudiante de secundaria
+  picture: http://via.placeholder.com/640x480
+  slug: richard-pavon-bermudez
+- name: Álvaro Conrado Dávila
+  age: 15
+  date_of_death: 19 de Abril del 2018
+  department: Managua
+  occupation: Estudiante de secundaria
+  picture: http://via.placeholder.com/640x480
+  slug: alvaro-conrado-davila
+- name: Carlos Bonilla López
+  age: 17
+  date_of_death: 20 de Abril del 2018
+  department: Ciudad Sandino
+  occupation: Estudiante de la UNI
+  picture: http://via.placeholder.com/640x480
+  slug: carlos-bonilla-lopez
+- name: Alvin Molina Hodgson
+  age: 27
+  date_of_death: 20 de Abril del 2018
+  department: Managua
+  occupation: Deportista
+  picture: http://via.placeholder.com/640x480
+  slug: alvin-molina-hodgson
+- name: Michael Humberto Cruz
+  age: 30
+  date_of_death: 20 de Abril del 2018
+  department: '-'
+  occupation: '-'
+  picture: http://via.placeholder.com/640x480
+  slug: michael-humberto-cruz
+- name: Orlando Francisco Pérez
+  age: 24
+  date_of_death: 20 de Abril del 2018
+  department: Estelí
+  occupation: Estudiante en Farem
+  picture: http://via.placeholder.com/640x480
+  slug: orlando-francisco-perez

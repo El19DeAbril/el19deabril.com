@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<div class="ui container margin-top margin-bottom">
+  {%- if site.data.dead.size > 0 -%}
+  <div class="ui grid container">
+    {%- for person in site.data.dead -%}
+    <div class="four wide column">
+      <div class="ui black card">
+        <div class="image">
+          <img src="{{ person.picture }}">
+        </div>
+        <div class="content">
+          <a class="header">{{ person.name }}</a>
+          <div class="meta">
+            <span>{{ person.occupation }}.</span>
+          </div>
+          <div class="meta">
+            <span class="date">Falleció el {{ person.date_of_death }}.</span>
+          </div>
+          <div class="meta">
+            <span>Tenía {{ person.age }} años de edad.</span>
+          </div>
+          <div class="meta">
+            <span>Vivía en {{ person.department }}.</span>
+          </div>
+        </div>
+        <div class="extra content">
+          <a href="/fallecidos/{{ person.slug }}">
+            <i class="linkify icon"></i>
+            Más información
+          </a>
+        </div>
+      </div>
+    </div>
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+
+</div>
